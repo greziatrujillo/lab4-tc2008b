@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Agregar esferas al north area (11/10/2026).
+
 ### Changed
 
 ### Deprecated
